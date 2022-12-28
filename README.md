@@ -4,8 +4,8 @@
 - 总是不知道该写啥，但是总是想写什么
 - 📫 你可以在[Telegram](https://t.me/Y2345)找到我呀
 
-![](https://raw.githubusercontent.com/username/github-stats/master/generated/overview.svg)
-![](https://raw.githubusercontent.com/username/github-stats/master/generated/languages.svg)
+![](https://raw.githubusercontent.com/yhkun/github-stats/master/generated/overview.svg)
+![](https://raw.githubusercontent.com/yhkun/github-stats/master/generated/languages.svg)
 
 
 
