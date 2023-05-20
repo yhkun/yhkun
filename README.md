@@ -1,6 +1,6 @@
 ## 欢迎！ Welcome!
-- 👋 你好，我是@yhkun
-- 🌱 emm，会做一些奇奇怪怪的东西啦
+- 👋 Hi There! 你好，我是@yhkun
+- 🌱 会做一些奇奇怪怪的东西啦
 - 📫 你可以在[Telegram](https://t.me/Y2345)找到我
 
 ![](https://raw.githubusercontent.com/yhkun/github-stats/master/generated/overview.svg)
